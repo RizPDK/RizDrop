@@ -13,5 +13,5 @@ dependencyResolutionManagement {
         maven { url = uri("https://jitpack.io") }
     }
 }
-rootProject.name = "TV-File-Pusher"
+rootProject.name = "RizDrop"
 include(":app")
