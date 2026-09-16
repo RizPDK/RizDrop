@@ -1,7 +1,9 @@
-# RizDrop 🚀
-A lightweight Android utility to wirelessly send files, videos, and APKs directly from your phone to your Android TV or Google TV using ADB over Wi-Fi—no TV-side app or USB stick required.
+# RizDrop 📱 ⚡ 📺
+> Fast, frictionless wireless file transfer and APK sideloading from Android to Android TV / Google TV.
 
-### Key Features
-* **Zero TV setup:** Works over native Android ADB wireless debugging (Port 5555).
-* **Direct APK sideloading:** Push install files and media to `/sdcard/Download/` instantly.
-* **Modern UI:** Built purely with Jetpack Compose and Material 3.
+A lightweight Android utility to wirelessly send files, videos, and APKs directly from your phone to your TV screen over local ADB Wi-Fi—no TV-side installation or USB flash drive required.
+
+### ⚡ Highlights
+* **📱 ➔ 📺 Zero-Setup Transfer:** Connects straight to the TV's built-in wireless debugging port (`5555`).
+* **📦 Direct APK Sideload:** Automatically delivers packages to `/sdcard/Download/` ready for installation.
+* **🛡️ Local & Private:** Transfers happen purely across your local Wi-Fi network with zero cloud middleman.
