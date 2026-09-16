@@ -40,7 +40,7 @@ class MainActivity : ComponentActivity() {
             }
 
             Column(modifier = Modifier.padding(24.dp)) {
-                Text("TV File Pusher", style = MaterialTheme.typography.headlineMedium)
+               Text("RizDrop", style = MaterialTheme.typography.headlineMedium)
                 Spacer(modifier = Modifier.height(16.dp))
 
                 OutlinedTextField(
