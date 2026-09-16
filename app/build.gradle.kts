@@ -37,5 +37,5 @@ dependencies {
     implementation(platform("androidx.compose:compose-bom:2024.02.00"))
     implementation("androidx.compose.ui:ui")
     implementation("androidx.compose.material3:material3")
-    implementation("com.github.mobile-dev-inc.dadb:dadb:v1.2.6")
+    implementation("com.github.mobile-dev-inc:dadb:1.2.6")
 }
